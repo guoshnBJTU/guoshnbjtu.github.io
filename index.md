@@ -5,9 +5,7 @@ I am currently a Visiting Student at School of Computer Science and Engineering,
 My current research interest falls in area of deep learning and data mining, especially their applications in **spatial-temporal data mining**.
 
 
-
 **Email**:  guoshn AT bjtu.edu.cn; shnguo.bjtu AT gmail.com
-
 
 
 ## Publications
