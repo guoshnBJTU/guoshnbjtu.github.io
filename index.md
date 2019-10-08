@@ -1,6 +1,6 @@
 ## GUO Shengnan (郭晟楠)
 
-I am  a PhD candidate at School of Computer and Information Technology, in Beijing Jiaotong University, supervised by Professor [Lin Youfang](http://faculty.bjtu.edu.cn/7443/). 
+I am  a PhD candidate at School of Computer and Information Technology, in Beijing Jiaotong University, supervised by Professor [Lin Youfang](http://faculty.bjtu.edu.cn/7443/) and [Wan Huaiyu](http://faculty.bjtu.edu.cn/8793/). 
 I am currently a Visiting Student at School of Computer Science and Engineering, Nanyang Technological University (NTU), supervised by Professor [Cong Gao](https://www.ntu.edu.sg/home/gaocong/).
 My current research interest falls in area of deep learning and data mining, especially their applications in **spatial-temporal data mining**.
 
