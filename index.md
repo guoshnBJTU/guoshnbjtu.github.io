@@ -22,7 +22,7 @@ Huaiyu Wan, Fuchen Li, **Shengnan Gu**o, Zhong Cao, Youfang Lin. Learning Time-A
 
 ## Journal Articles
 
-**Shengnan Guo**, Youfang Lin, Huaiyu Wan, Xiucheng Li, Gao Cong. Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2021. [pdf](https://ieeexplore.ieee.org/document/9346058).
+**Shengnan Guo**, Youfang Lin, Huaiyu Wan, Xiucheng Li, Gao Cong. Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2021. [pdf](https://ieeexplore.ieee.org/document/9346058); [code](https://github.com/guoshnBJTU/ASTGNN) 
 
 **Shengnan Guo**, Youfang Lin, Shijie Li, Zhaoming Chen and Huaiyu Wan. Deep Spatial-Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting. *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2019. [pdf](https://ieeexplore.ieee.org/abstract/document/8684259); [code](https://github.com/guoshnBJTU/ST3DNet).
 
