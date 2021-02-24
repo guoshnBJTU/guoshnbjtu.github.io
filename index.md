@@ -24,9 +24,9 @@ Huaiyu Wan, Fuchen Li, **Shengnan Gu**o, Zhong Cao, Youfang Lin. Learning Time-A
 
 **Shengnan Guo**, Youfang Lin, Huaiyu Wan, Xiucheng Li, Gao Cong. Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2021. [pdf](https://ieeexplore.ieee.org/document/9346058).
 
-**Shengnan Guo**, Youfang Lin, Shijie Li, Zhaoming Chen and Huaiyu Wan. Deep Spatial-Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting. *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2019. [pdf](https://github.com/guoshnBJTU/ST3DNe); [code](https://github.com/guoshnBJTU/ST3DNet).
+**Shengnan Guo**, Youfang Lin, Shijie Li, Zhaoming Chen and Huaiyu Wan. Deep Spatial-Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting. *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2019. [pdf](https://ieeexplore.ieee.org/abstract/document/8684259); [code](https://github.com/guoshnBJTU/ST3DNet).
 
-Huaiyu Wan, Yan Lin, **Shengnan Guo**, Youfang Lin. Pre-training Time-Aware Location Embeddings from Spatial-Temporal Trajectories. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2021. [pdf][https://ieeexplore.ieee.org/document/9351627]
+Huaiyu Wan, Yan Lin, **Shengnan Guo**, Youfang Lin. Pre-training Time-Aware Location Embeddings from Spatial-Temporal Trajectories. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2021. [pdf](https://ieeexplore.ieee.org/document/9351627)
 
-Huaiyu Wan, **Shengnan Guo**, Kang Yin, Xiaohui Liang, Youfang Lin. CTS-LSTM: LSTM-based Neural Networks for Correlated Time Series Prediction. *Knowledge-Based Systems (KBS)*, 2020, 191: 105239. [pdf][https://www.sciencedirect.com/science/article/abs/pii/S095070511930557X]
+Huaiyu Wan, **Shengnan Guo**, Kang Yin, Xiaohui Liang, Youfang Lin. CTS-LSTM: LSTM-based Neural Networks for Correlated Time Series Prediction. *Knowledge-Based Systems (KBS)*, 2020, 191: 105239. [pdf](https://www.sciencedirect.com/science/article/abs/pii/S095070511930557X)
 
