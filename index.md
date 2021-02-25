@@ -6,9 +6,15 @@ My current research interest falls in area of deep learning and data mining, esp
 
 **Email**:  guoshn AT bjtu.edu.cn; shnguo.bjtu AT gmail.com
 
-## **Conference Papers**
+## Papers
 
 **Shengnan Guo**, Youfang Lin, Ning Feng, Chao Song, Huaiyu Wan. Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting. *The 33rd AAAI Conference on Artificial Intelligence (AAAI)*, 2019.  [pdf](pdfs/AAAI2019-GuoS.2690.pdf); [code](https://github.com/guoshnBJTU/ASTGCN-r-pytorch); [ppt](https://github.com/guoshnBJTU/ASTGCN/blob/master/papers/ASTGCN_ppt.pdf).
+
+**Shengnan Guo**, Youfang Lin, Huaiyu Wan, Xiucheng Li, Gao Cong. Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2021. [pdf](https://ieeexplore.ieee.org/document/9346058); [code](https://github.com/guoshnBJTU/ASTGNN) 
+
+**Shengnan Guo**, Youfang Lin, Shijie Li, Zhaoming Chen and Huaiyu Wan. Deep Spatial-Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting. *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2019. [pdf](https://ieeexplore.ieee.org/abstract/document/8684259); [code](https://github.com/guoshnBJTU/ST3DNet).
+
+Huaiyu Wan, Yan Lin, **Shengnan Guo**, Youfang Lin. Pre-training Time-Aware Location Embeddings from Spatial-Temporal Trajectories. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2021. [pdf](https://ieeexplore.ieee.org/document/9351627)
 
 Yan Lin, Huaiyu Wan, **Shengnan Guo**, Youfang Lin. Pre-training Context and Time Aware Location Embeddings from Spatial-Temporal Trajectories for User Next Location Prediction. *The 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
 
@@ -18,15 +24,6 @@ Haomin Wen, Youfang Lin, Fan Wu, Huaiyu Wan, **Shengnan Guo**, lixia wu, Chao So
 
 Chao Song, Youfang Lin, **Shengnan Guo**, Huaiyu Wan. Spatial-Temporal Synchronous Graph Convolutional Networks: A New Framework for Spatial-Temporal Network Data Forecasting. *The 34th AAAI Conference on Artificial Intelligence* *(AAAI)*, 2020. 
 
-Huaiyu Wan, Fuchen Li, **Shengnan Gu**o, Zhong Cao, Youfang Lin. Learning Time-Aware Distributed Representations of Locations from Spatio-Temporal Trajectories. *The 24th International Conference on Database Systems for Advanced Applications (DASFAA)*, 2019.
+Huaiyu Wan, **Shengnan Guo**, Kang Yin, Xiaohui Liang, Youfang Lin. CTS-LSTM: LSTM-based Neural Networks for Correlated Time Series Prediction. *Knowledge-Based Systems (KBS)*, 2020, 191: 105239. 
 
-## Journal Articles
-
-**Shengnan Guo**, Youfang Lin, Huaiyu Wan, Xiucheng Li, Gao Cong. Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2021. [pdf](https://ieeexplore.ieee.org/document/9346058); [code](https://github.com/guoshnBJTU/ASTGNN) 
-
-**Shengnan Guo**, Youfang Lin, Shijie Li, Zhaoming Chen and Huaiyu Wan. Deep Spatial-Temporal 3D Convolutional Neural Networks for Traffic Data Forecasting. *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2019. [pdf](https://ieeexplore.ieee.org/abstract/document/8684259); [code](https://github.com/guoshnBJTU/ST3DNet).
-
-Huaiyu Wan, Yan Lin, **Shengnan Guo**, Youfang Lin. Pre-training Time-Aware Location Embeddings from Spatial-Temporal Trajectories. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2021. [pdf](https://ieeexplore.ieee.org/document/9351627)
-
-Huaiyu Wan, **Shengnan Guo**, Kang Yin, Xiaohui Liang, Youfang Lin. CTS-LSTM: LSTM-based Neural Networks for Correlated Time Series Prediction. *Knowledge-Based Systems (KBS)*, 2020, 191: 105239. [pdf](https://www.sciencedirect.com/science/article/abs/pii/S095070511930557X)
-
+Huaiyu Wan, Fuchen Li, Shengnan Guo, Zhong Cao, Youfang Lin. Learning Time-Aware Distributed Representations of Locations from Spatio-Temporal Trajectories. *The 24th International Conference on Database Systems for Advanced Applications (DASFAA)*, 2019.
